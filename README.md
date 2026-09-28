@@ -1,0 +1,1 @@
+# sme-digital-payment-readiness
